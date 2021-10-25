@@ -11,10 +11,10 @@
 // alert(user.name)
 
 const LinksSocialMedia = {
-    github: "jakeliny2",
+    github: "gabrielgrota",
     youtube: "jakelinygracielly",
     facebook: "maykbrito",
-    instagram: "jakeliny.gracielly",
+    instagram: "gabrielgrota_",
     twitter: "jakelinytec",
 }
 
